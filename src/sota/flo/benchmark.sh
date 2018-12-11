@@ -7,7 +7,7 @@ _MODEL_TYPE_=cycle_wgan
 # Trainable architecture
 _TRAINABLE_=fullyconnected
 
-_GPU_DEV_="0"
+_GPU_DEV_="1"
 _GPU_MEM_=0.9
 _CONFERENCE_=sota
 _DATABASE_=flo

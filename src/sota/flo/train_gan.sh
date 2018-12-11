@@ -4,7 +4,7 @@ _DBDIR_=./data/
 # Model type
 _MODEL_TYPE_=cycle_wgan
 # GPU assign
-_GPU_DEV_="0"
+_GPU_DEV_="1"
 # GPU memory use
 _GPU_MEM_=0.9
 # conference flag

@@ -4,7 +4,7 @@ _DBDIR_=./data/
 # Model type
 _MODEL_TYPE_=cycle_wgan
 
-_GPU_DEV_="0"
+_GPU_DEV_="1"
 _GPU_MEM_=0.9
 _CONFERENCE_=sota
 _DATABASE_=cub
